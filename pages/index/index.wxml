@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<view class="container">
+  <t-view inner-text="模块一"></t-view>
+  <button bindtap='linkToShop'>去商铺页</button>
+  <view>{{netStatus}}</view>
+  <view>{{netWorkType}}</view>
+</view>

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "t-view": "../../components/t-view/t-view"
+  }
+}

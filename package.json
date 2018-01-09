@@ -1,0 +1,22 @@
+
+{
+  "name": "wxxcx",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jnxyx/wxxcx",
+  "author": {
+    "name": "Yun Xiang Xu",
+    "url": "https://github.com/jnxyx"
+  },
+  "repository": "jnxyx/wxxcx",
+  "bugs": {
+    "url": "https://github.com/jnxyx/wxxcx"
+  },
+  "license": "MIT",
+  "files": [
+    "app.js"
+  ],
+  "main": "app.js",
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
