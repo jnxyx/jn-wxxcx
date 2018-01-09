@@ -1,15 +1,15 @@
 
 {
-  "name": "wxxcx",
+  "name": "jn-wxxcx",
   "version": "0.1.1",
-  "homepage": "https://github.com/jnxyx/wxxcx",
+  "homepage": "https://github.com/jnxyx/jn-wxxcx",
   "author": {
     "name": "Yun Xiang Xu",
     "url": "https://github.com/jnxyx"
   },
-  "repository": "jnxyx/wxxcx",
+  "repository": "jnxyx/jn-wxxcx",
   "bugs": {
-    "url": "https://github.com/jnxyx/wxxcx"
+    "url": "https://github.com/jnxyx/jn-wxxcx"
   },
   "license": "MIT",
   "files": [
