@@ -1,7 +1,7 @@
 
 {
   "name": "jn-wxxcx",
-  "version": "0.1.1",
+  "version": "1.1.2",
   "homepage": "https://github.com/jnxyx/jn-wxxcx",
   "author": {
     "name": "Yun Xiang Xu",
@@ -19,8 +19,11 @@
     "memory/",
     "models/",
     "pages/",
-    "tools/",
+    "tools/"
   ],
+  "bin": {
+    "jn-wxxcx": "./bin/express-cli.js"
+  },
   "main": "app.js",
   "engines": {
     "node": ">=0.10.0"

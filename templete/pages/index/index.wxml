@@ -1,7 +1,7 @@
 <!--index.wxml-->
 <view class="container">
-  <t-view inner-text="模块一"></t-view>
-  <button bindtap='linkToShop'>去商铺页</button>
+  <t-view inner-text="模块字符串"></t-view>
+  <button bindtap='linkToShop'>跳转</button>
   <view>{{netStatus}}</view>
   <view>{{netWorkType}}</view>
 </view>
