@@ -13,7 +13,13 @@
   },
   "license": "MIT",
   "files": [
-    "app.js"
+    "components/",
+    "controllers/",
+    "interfaces/",
+    "memory/",
+    "models/",
+    "pages/",
+    "tools/",
   ],
   "main": "app.js",
   "engines": {
