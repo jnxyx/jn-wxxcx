@@ -13,13 +13,8 @@
   },
   "license": "MIT",
   "files": [
-    "components/",
-    "controllers/",
-    "interfaces/",
-    "memory/",
-    "models/",
-    "pages/",
-    "tools/"
+    "bin/",
+    "templates/"
   ],
   "bin": {
     "jn-wxxcx": "./bin/express-cli.js"
