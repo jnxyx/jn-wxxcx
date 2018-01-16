@@ -24,7 +24,7 @@ module.exports = {
   // 小程序版本
   appVersion: '1.0.1',
   // 项目版本
-  version: '2.4.3',
+  version: '1.0.1',
   platform: 'wxapp',
   device: 'weixin',
   environment: hostConfig.environment, // 'online'

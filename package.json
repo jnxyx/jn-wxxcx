@@ -23,7 +23,7 @@
     "templates/"
   ],
   "bin": {
-    "jn-wxxcx": "./bin/express-cli.js"
+    "wxxcx": "./bin/express-cli.js"
   },
   "main": "app.js",
   "engines": {
