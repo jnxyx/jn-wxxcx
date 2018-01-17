@@ -157,14 +157,14 @@ function createApplication (name, path) {
     })
 
     mkdir(path + '/models', function () {
-      copyTemplate('models/enum-models.js', path + '/models/enum-models.js')
-      copyTemplate('models/return-models.js', path + '/models/return-models.js')
+      copyTemplate('models/enum-model.js', path + '/models/enum-model.js')
+      copyTemplate('models/return-model.js', path + '/models/return-model.js')
       copyTemplate('models/models.js', path + '/models/models.js')
     })
 
     mkdir(path + '/tools', function () {
       copyTemplate('tools/base-tool.js', path + '/tools/base-tool.js')
-      copyTemplate('tools/date-tools.js', path + '/tools/date-tools.js')
+      copyTemplate('tools/date-tool.js', path + '/tools/date-tool.js')
       copyTemplate('tools/tools.js', path + '/tools/tools.js')
     })
 
