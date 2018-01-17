@@ -1,7 +1,6 @@
-
 {
   "name": "jn-wxxcx",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "homepage": "https://github.com/jnxyx/jn-wxxcx",
   "author": {
     "name": "Yun Xiang Xu",
@@ -14,6 +13,7 @@
   "dependencies": {
     "commander": "2.11.0",
     "ejs": "2.5.7",
+    "express-generator": "^4.15.5",
     "mkdirp": "0.5.1",
     "sorted-object": "2.0.1"
   },
@@ -23,10 +23,10 @@
     "templates/"
   ],
   "bin": {
-    "wxxcx": "./bin/express-cli.js"
+    "wxxcx": "./bin/jn-wxxcx-cli.js"
   },
-  "main": "app.js",
+  "main": "./bin/jn-wxxcx-cli.js",
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=0.10"
   }
 }
