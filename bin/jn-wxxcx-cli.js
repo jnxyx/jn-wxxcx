@@ -147,6 +147,9 @@ function createApplication (name, path) {
       copyTemplate('controllers/indexController.js', path + '/controllers/indexController.js')
     })
 
+    mkdir(path + '/images', function () {
+    })
+
     mkdir(path + '/interfaces', function () {
       copyTemplate('interfaces/interface.js', path + '/interfaces/interface.js')
       copyTemplate('interfaces/indexITF.js', path + '/interfaces/indexITF.js')
