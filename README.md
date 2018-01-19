@@ -1,4 +1,4 @@
-[jn-wxxcx](https://github.com/jnxyx/jn-wxxcx) — 一款微信小程序框架（生成器）
+[jn-wxapp](https://github.com/jnxyx/jn-wxxcx) — 一款微信小程序框架（生成器）
 ==================================================
 
 引言
