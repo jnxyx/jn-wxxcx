@@ -27,7 +27,7 @@ $ sudo npm install jn-wxapp -g
 在目的文件夹下执行命令：
 
 ```bash
-$ wxxcx test
+$ wxapp test
 ```
 
 其中test是你的小程序项目名称
