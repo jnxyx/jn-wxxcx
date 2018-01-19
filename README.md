@@ -12,13 +12,13 @@
 windows用户使用控制台安装:
 
 ```bash
-$ npm install jn-wxxcx -g
+$ npm install jn-wxapp -g
 ```
 
 mac用户使用终端安装:
 
 ```bash
-$ sudo npm install jn-wxxcx -g
+$ sudo npm install jn-wxapp -g
 ```
 
 如何使用
