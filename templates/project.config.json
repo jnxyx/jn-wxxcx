@@ -19,17 +19,6 @@
 		"conversation": {
 			"current": -1,
 			"list": []
-		},
-		"miniprogram": {
-			"current": -1,
-			"list": [
-				{
-					"id": -1,
-					"name": "登录页",
-					"pathName": "pages/login/login",
-					"query": ""
-				}
-			]
 		}
 	}
 }

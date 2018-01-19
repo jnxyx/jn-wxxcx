@@ -1,6 +1,6 @@
 {
-  "name": "jn-wxxcx",
-  "version": "1.1.8",
+  "name": "jn-wxapp",
+  "version": "1.10.1",
   "homepage": "https://github.com/jnxyx/jn-wxxcx",
   "author": {
     "name": "Yun Xiang Xu",
@@ -23,9 +23,9 @@
     "templates/"
   ],
   "bin": {
-    "wxxcx": "./bin/jn-wxxcx-cli.js"
+    "wxapp": "./bin/jn-wxapp-cli.js"
   },
-  "main": "./bin/jn-wxxcx-cli.js",
+  "main": "./bin/jn-wxapp-cli.js",
   "engines": {
     "node": ">=0.10"
   }
